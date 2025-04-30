@@ -88,6 +88,15 @@ If you would like to see the demo, please contact
 * Deploy Astro to XM Cloud, [EXDST blog](https://exdst.com/posts/20250127-sitecore-xm-cloud-astro)
 * Sitecore + Astro, [Youtube, SUG Latam](https://www.youtube.com/watch?v=pP6pcaO_FhY)
 * Sitecore Headless Software Development Kit for Astro, [Youtube, SUGCON](https://www.youtube.com/watch?v=PzOSONAdxe8)
+* Astro Verticals Demo Case Study, [EXDST site](https://exdst.com/astro-demo)
+* Release 1.0.1, [EXDST blog](https://exdst.com/posts/20250303-sitecore-astro-jss-1-0-1-release)
+* Sitecore Astro Verticals Demo Website: Feature Comparison with Next.js, [EXDST blog](https://exdst.com/posts/20250223-sitecore-astro-verticals-features-list)
+* Sitecore Astro Verticals Demo Website: Next.js vs Astro Components Comparison, [EXDST blog](https://exdst.com/posts/20250221-sitecore-astro-verticals-components)
+* Sitecore Astro Verticals Demo Website: Performance, [EXDST blog](https://exdst.com/posts/20250225-sitecore-astro-verticals-performance)
+* Sitecore Astro Verticals Demo Website: Running Locally, [EXDST blog](https://exdst.com/posts/20250217-sitecore-astro-verticals-local)
+* Sitecore Astro Verticals Demo Website: Running on Sitecore Demo Portal, [EXDST blog](https://exdst.com/posts/20250214-sitecore-astro-verticals-demo-portal)
+* Sitecore Astro Verticals Demo Website: The Process, [EXDST blog](https://exdst.com/posts/20250213-sitecore-astro-verticals-demo-process)
+* Sitecore Astro Verticals Demo Website, [EXDST blog](https://exdst.com/posts/20250226-sitecore-astro-verticals-announcement)
 
 ## Demo Website
 You can see Astro together with Sitecore in action in [this repository](https://github.com/exdst/Sitecore.Demo.XMCloud.Verticals). It is a fork of the Sitecore Next.js Demo website, reimplemented on Astro, which proves Astro capabilities and better Astro performance compared to Next.js.
