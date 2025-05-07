@@ -33,7 +33,7 @@
     "@astro-sitecore-jss/astro-sitecore-jss": "1.0.1",
     "@astrojs/node": "^9.0.0-beta.2",
     "@astrojs/react": "^3.6.2",
-    "@astrojs/vue": "^5.0.0-beta.0",
+    "@astrojs/vue": "^5.0.13",
     "@sitecore-jss/sitecore-jss": "^22.0.0",
     "@sitecore-jss/sitecore-jss-angular": "^22.0.0",
     "@sitecore-jss/sitecore-jss-react": "^22.0.0",
@@ -55,6 +55,7 @@
     "sharp": "^0.33.1",
     "tsconfig-paths": "^4.2.0",
     "tslib": "^2.6.2",
+    "vue": "^3.5.13",
     "zone.js": "^0.14.2"
   },
   "devDependencies": {
