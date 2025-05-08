@@ -92,7 +92,7 @@ if ($InitEnv) {
 	# Firstly, create .env file from template for clean slate approach
 	##################
 	Write-Host "Creating .env file." -ForegroundColor Green
-	Copy-Item ".\.env.template" ".\.env" -Force
+	Copy-Item ".\topology\sitecore-xmcloud\.env.template" ".\.env" -Force
 
     Write-Host "Populating required .env file values..." -ForegroundColor Green
 
